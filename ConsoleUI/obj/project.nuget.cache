@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FY/qTigh9w3ZvdGw8+LNXM2g2uF/rFx0Pukpoyyaw4JaTEQr865UpHH93jvWT+f+bLDKiqglQ1ZhiNqLs7jDtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasin\\OneDrive\\Masaüstü\\Yazılımcı Yetiştirme Kampı - Engin Demiroğ\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yasin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
