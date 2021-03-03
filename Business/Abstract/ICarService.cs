@@ -5,8 +5,7 @@ using System.Text;
 
 namespace Business.Abstract
 {
-    public interface ICarService
+    public interface ICarService : IBusinessRepository<Car>
     {
-        List<Car> GetAll();
     }
 }
